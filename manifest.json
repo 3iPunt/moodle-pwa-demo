@@ -1,0 +1,125 @@
+{
+  "short_name": "Moodle",
+  "name": "Moodle",
+  "icons": [
+    {
+      "src": "/resources/StoreLogo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/resources/StoreLogo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/resources/android/icon/drawable-mdpi-icon.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/resources/android/icon/drawable-hdpi-icon.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/resources/android/icon/drawable-xhdpi-icon.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/resources/android/icon/drawable-xxhdpi-icon.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/resources/android/icon/drawable-xxxhdpi-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/resources/ios/icon/icon-76.png",
+      "type": "image/png",
+      "sizes": "76x76"
+    },
+    {
+      "src": "/resources/ios/icon/icon-60@2x.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "/resources/ios/icon/icon-76@2x.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/resources/ios/icon/icon-60@3x.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "/resources/ios/icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    },
+    {
+      "src": "/resources/ios/splash/Default-Landscape~ipad.png",
+      "type": "image/png",
+      "sizes": "1024x768"
+    },
+    {
+      "src": "/resources/ios/splash/Default-Portrait~ipad.png",
+      "type": "image/png",
+      "sizes": "768x1024"
+    },
+    {
+      "src": "/resources/ios/splash/Default-Landscape@2x~ipad.png",
+      "type": "image/png",
+      "sizes": "2048x1536"
+    },
+    {
+      "src": "/resources/ios/splash/Default-Portrait@2x~ipad.png",
+      "type": "image/png",
+      "sizes": "1536x2048"
+    },
+    {
+      "src": "/resources/ios/splash/Default@2x~iphone.png",
+      "type": "image/png",
+      "sizes": "640x960"
+    },
+    {
+      "src": "/resources/ios/splash/Default-568h@2x~iphone.png",
+      "type": "image/png",
+      "sizes": "640x1136"
+    },
+    {
+      "src": "/resources/ios/splash/Default-Landscape-736h.png",
+      "type": "image/png",
+      "sizes": "2208x1242"
+    },
+    {
+      "src": "/resources/ios/splash/Default-736h.png",
+      "type": "image/png",
+      "sizes": "1242x2208"
+    },
+    {
+      "src": "/resources/ios/splash/Default-667Lanscape.png",
+      "type": "image/png",
+      "sizes": "1334x750"
+    },
+    {
+      "src": "/resources/ios/splash/Default-667h.png",
+      "type": "image/png",
+      "sizes": "750x1334"
+    }
+  ],
+  "start_url": "https://mootxel.com/",
+  "display": "browser",
+  "scope": "/",
+  "background_color": "#f98012",
+  "theme_color": "#f98012",
+  "gcm_sender_id": "694767596569",
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
